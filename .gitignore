@@ -1,0 +1,24 @@
+# Build output
+/build/
+/build*/
+build*/
+/cmake-build-*/
+/out/
+/dist/
+/output/
+
+# IDE/local metadata
+/.idea/
+/.vs/
+*.user
+*.suo
+
+# Python/old packaging leftovers
+__pycache__/
+*.py[cod]
+*.spec
+
+# Generated logs
+*.log
+*.tmp
+build/
